@@ -54,7 +54,7 @@ Todos os metadados ficam em **um único arquivo** - sem risco de perder informa�
 
 ```bash
 # Clonar repositório
-git clone <seu-repo>
+git clone https://github.com/DiogenesYazan/DyCrypt.git
 cd DyCrypt
 
 # Instalar dependências
